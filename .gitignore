@@ -129,10 +129,10 @@ dmypy.json
 .pyre/
 
 #
-
+.DS_Store
 #image data
 jindo/
 shiba/
 
 #numpy arrays of images and labels
-.npy
+*.npy
