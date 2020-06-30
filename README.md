@@ -15,12 +15,12 @@ After attending some live dog pet adoption events for rescues, I saw that it's n
 Below are collages of the originally scraped data and augmented data. The augmented data consists of images that have been transformations through a combination of 20 or -20 degreen rotations and zooming in.
 
 
-Original
+Original:
 
 ![original data](/images/data_original_collage.png)
 
 
-Augmented
+Augmented:
 
 ![augmented data](/images/data_augmented.png)
 
@@ -31,12 +31,12 @@ For now I created multiple CNNs with either 4 layers or 6 layers. I used only 5 
 The best base model so far is a 6 layer CNN with 5 epochs and 200 batches and the resuls shown below:
 
 
-Metrics
+Metrics:
 
 ![original data](/images/metrics.png)
 
 
-Confusion Matrix
+Confusion Matrix:
 
 ![confusion matrix](/images/confusion_matrix.png)
 
