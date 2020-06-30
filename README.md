@@ -16,25 +16,28 @@ Below are collages of the originally scraped data and augmented data. The augmen
 
 
 Original
+
 ![original data](/images/data_original_collage.png)
 
 
 Augmented
+
 ![augmented data](/images/data_augmented.png)
 
 ## Model
 
 For now I created multiple CNNs with either 4 layers or 6 layers. I used only 5 or 10 epochs and tried different batches from 50 - 200. I saw that with batches too small, letting the model quickly learned the best way to minimze the loss function is by guessing one class.
 
-
-The best base model so far is a 6 layer CNN with 5 epochs and 200 batches.
+The best base model so far is a 6 layer CNN with 5 epochs and 200 batches and the resuls shown below:
 
 
 Metrics
+
 ![original data](/images/metrics.png)
 
 
 Confusion Matrix
+
 ![confusion matrix](/images/confusion_matrix.png)
 
 
