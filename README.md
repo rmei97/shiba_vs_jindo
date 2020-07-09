@@ -35,12 +35,19 @@ Metrics:
 ![original data](/images/metrics.png)
 
 
+
+
 Confusion Matrix:
+
+
 
 ![confusion matrix](/images/confusion_matrix.png)
 
 
 Properly classified:
+
+
+
 ![classified properly](/images/classified.png)
 
 ## Conclusion
