@@ -136,4 +136,8 @@ shiba/
 
 #numpy arrays of images and labels
 *.npy
+
+
 *.pickle
+*.zip
+dataset/
