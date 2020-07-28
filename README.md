@@ -56,6 +56,8 @@ Properly classified:
 The final model didn't end up only picking the dominate class, and also did equally well for identifying both classes. Since this is a CNN, it is hard to see what the model is doing when classifying the images.
 
 Misclassified images:
+
+
 ![misclassified images](/images/misclassified.png)
 
 
